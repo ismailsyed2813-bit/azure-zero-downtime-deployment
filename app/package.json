@@ -1,0 +1,9 @@
+{
+  "name": "azure-zero-downtime",
+  "version": "1.0.0",
+  "description": "Azure Zero-Downtime Deployment Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
